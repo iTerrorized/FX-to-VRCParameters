@@ -1,0 +1,18 @@
+{
+  "name": "com.iterrorized.fxtovrcparameters",
+  "displayName": "com.iterrorized.fxtovrcparameters",
+  "version": "1.0.1",
+  "description": "Tool to help transfer paramters from the FX layer to VRCParamters list",
+  "gitDependencies": {},
+  "vpmDependencies": {
+    "com.vrchat.avatars": "3.7.7-beta.1"
+  },
+  "author": {
+    "name": "iterrorized",
+    "email": " ",
+    "url": "https://github.com/iTerrorized"
+  },
+  "legacyFolders": {},
+  "legacyFiles": {},
+  "localPath": "C:\\Users\\xterr\\OneDrive\\Documents\\GitHub\\FX-to-VRCParameters\\Packages\\com.iterrorized.fxtovrcparameters"
+}
