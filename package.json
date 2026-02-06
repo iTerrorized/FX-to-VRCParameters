@@ -1,7 +1,7 @@
 {
   "name": "dev.terrorized.fxtovrcparameters",
   "displayName": "FX To VRC Parameters",
-  "version": "1.0.2",
+  "version": "1.0.5",
   "description": "Select parameters from the FX and add to VRC Parameters",
   "url": "https://github.com/iTerrorized/FX-To-VRC-Parameters",
   "vpmDependencies": {
