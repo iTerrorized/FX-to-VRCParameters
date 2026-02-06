@@ -1,8 +1,8 @@
 {
   "name": "dev.terrorized.fxtovrcparameters",
   "displayName": "FX To VRC Parameters",
-  "version": "1.0.1",
-  "description": "Find Used Shaders on a game object",
+  "version": "1.0.2",
+  "description": "Select parameters from the FX and add to VRC Parameters",
   "url": "https://github.com/iTerrorized/FX-To-VRC-Parameters",
   "vpmDependencies": {
     "com.vrchat.avatars": "^3.10.0"
